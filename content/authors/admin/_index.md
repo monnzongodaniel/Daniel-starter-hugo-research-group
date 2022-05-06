@@ -1,7 +1,7 @@
 ---
 title: Daniel Legrand Mon Nzongo
 role: Postdoctoral Research Fellow
-avatar_filename: null
+avatar_filename: daniel4.jpg
 bio: "My research interests include High-Power Converters, Power Electronics
   Transformers, Energy Router Systems "
 interests:

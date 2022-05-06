@@ -1,6 +1,8 @@
 ---
 title: xxxxxxxxxxxxxxx Wins First Place in they yyyyyyyyyyyyy Prize
 date: 2020-12-01
+image:
+  filename: img13.jpg
 ---
 Congratulations to xxxxxxxxxxxxxxxxxx for winning first place in the yyyyyyyyyy Prize.
 

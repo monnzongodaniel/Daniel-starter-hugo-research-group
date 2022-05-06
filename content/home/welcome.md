@@ -9,6 +9,8 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    image: 17.jpg
 hero_media: welcome.jpg
 ---
 <!--\[if gte mso 9]><xml>

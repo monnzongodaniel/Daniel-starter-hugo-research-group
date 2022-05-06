@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: Power Electronics and Energy Research Group (PEER)
 widget_id: Recent-Post
 headless: true
 weight: 10

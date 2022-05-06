@@ -1,9 +1,8 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: xxxxxxxxxxxxxxx Wins First Place in they yyyyyyyyyyyyy Prize
 date: 2020-12-01
 ---
-
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations to xxxxxxxxxxxxxxxxxx for winning first place in the yyyyyyyyyy Prize.
 
 <!--more-->
 
